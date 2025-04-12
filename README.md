@@ -50,7 +50,13 @@ To run any task:
 ---
 
 ## 📂 Folder Structure
-CODSOFT/ ├── Task1 - SMS/ ├── Task2 - Customer Churn/ ├── Task3 - Movie Genre/ ├── Task - 4 Credit card Fraud/ ├── Task 5 - Handwritten Text Generation/ ├── .gitignore.txt └── 
+CODSOFT/ 
+├── Task1 - SMS/ 
+├── Task2 - Customer Churn/ 
+├── Task3 - Movie Genre/ 
+├── Task - 4 Credit card Fraud/ 
+├── Task 5 - Handwritten Text Generation/ 
+├── .gitignore.txt └── 
 
 ---
 
