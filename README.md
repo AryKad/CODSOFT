@@ -21,7 +21,7 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 | ✅ 1 | SMS Spam Detection | [`Task1 - SMS`](./Task1%20-%20SMS) |
 | ✅ 2 | Customer Churn Prediction | [`Task2 - Customer Churn`](./Task2%20-%20Customer%20Churn) |
 | ✅ 3 | Movie Genre Classification | [`Task3 - Movie Genre`](./Task3%20-%20Movie%20Genre) |
-| ✅ 4 | Credit Card Fraud Detection | [`Task - 4 Credit card Fraud`](./Task%20-%204%20Credit%20card%20Fraud) |
+| ✅ 4 | Credit Card Fraud Detection | [`Task - 4 Credit card Fraud`](./Task4%20-%20Credit%20card%20Fraud) |
 | ✅ 5 | Handwritten Text Generation (Bonus Task) | [`Task 5 - Handwritten Text Generation`](./Task%205%20-%20Handwritten%20Text%20Generation) |
 
 ---
