@@ -49,17 +49,6 @@ To run any task:
 
 ---
 
-## 📂 Folder Structure
-CODSOFT/
-├── Task1 - SMS/
-├── Task2 - Customer Churn/
-├── Task3 - Movie Genre/
-├── Task4 - Credit Card Fraud/
-├── Task5 - Handwritten Text Generation/
-├── .gitignore.txt
-
----
-
 ## 📬 Contact
 
 Feel free to connect or reach out for collaborations or questions:
