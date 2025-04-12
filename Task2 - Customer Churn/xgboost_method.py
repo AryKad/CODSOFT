@@ -7,7 +7,7 @@ from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # Load dataset
-df = pd.read_csv("C:/Users/Admin/Downloads/archive (4)/Churn_Modelling.csv")
+df = pd.read_csv("data/Churn_Modelling.csv")
 
 # Drop unnecessary columns
 df.drop(columns=["RowNumber", "CustomerId", "Surname"], inplace=True)
