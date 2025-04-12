@@ -11,7 +11,7 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.preprocessing import LabelEncoder
 
 # Load dataset
-df = pd.read_csv("C:/Users/Admin/Downloads/archive (2)/spam.csv", encoding="latin-1")
+df = pd.read_csv("data/spam.csv", encoding="latin-1")
 df = df[['v1', 'v2']].rename(columns={'v1': 'label', 'v2': 'message'})
 
 # Remove duplicates
