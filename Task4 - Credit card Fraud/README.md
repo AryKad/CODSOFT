@@ -2,7 +2,7 @@
 
 This project uses machine learning techniques to detect fraudulent credit card transactions.
 
-## 📁 Dataset and Models
+## 📁 Dataset and Model
 
 Due to GitHub file size limitations, the dataset and trained models are hosted externally on Google Drive.
 
