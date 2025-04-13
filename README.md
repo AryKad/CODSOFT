@@ -54,7 +54,7 @@ To run any task:
 Feel free to connect or reach out for collaborations or questions:
 
 - GitHub: [@AryKad](https://github.com/AryKad)
-- LinkedIn: [Aryan Kadam](https://www.linkedin.com/in/aryan-kadam-0706)
+- LinkedIn: [Aryan Kadam]([https://www.linkedin.com/in/aryan-kadam-0706](https://www.linkedin.com/in/aryan-kadam-a667542b5/))
 
 ---
 
