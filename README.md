@@ -1,22 +1,15 @@
-# 💼 CodSoft Internship Tasks
+#💡 Machine Learning Projects
+Welcome to my Machine Learning Projects repository!
+This space showcases the end-to-end ML solutions I've built as part of my self-learning journey and hands-on exploration of data science, artificial intelligence, and real-world problem-solving.
 
-This repository contains all the tasks completed as part of my **Machine Learning Internship at CodSoft**. The internship provided an opportunity to work on real-world datasets and build end-to-end ML solutions, enhancing both practical and theoretical understanding of data science and AI.
 
----
 
-## 📚 Internship Details
-
-- **Company:** [CodSoft](https://www.codsoft.in/)
-- **Role:** Machine Learning Intern
-- **Duration:** 1 Month
-- **Mode:** Remote
-- **Status:** ✅ Completed 4
 
 ---
+##🚀 Projects Overview
+Each project in this repository involves working with real datasets, applying data preprocessing and modeling techniques, and evaluating performance with appropriate metrics.
 
-## 🚀 Tasks Completed
-
-| Task No. | Title | Folder |
+| Project No.	| Title | Folder |
 |----------|------------------------------|-------------------------------|
 | ✅ 1 | SMS Spam Detection | [`Task1 - SMS`](./Task1%20-%20SMS) |
 | ✅ 2 | Customer Churn Prediction | [`Task2 - Customer Churn`](./Task2%20-%20Customer%20Churn) |
@@ -25,14 +18,14 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 
 ---
 
-## 🧠 Skills & Tools Applied
-
-- Python, NumPy, Pandas, Matplotlib, Seaborn
-- Scikit-learn, XGBoost, Imbalanced-learn (SMOTE)
-- NLP Techniques: TF-IDF, CountVectorizer, Sentence-BERT
-- Multi-label Classification, ROC-AUC, Accuracy/F1/Recall
-- Model Evaluation, Confusion Matrix, GridSearchCV
-- Git & GitHub for Version Control
+##🛠️ Tools & Techniques
+Languages & Libraries: Python, NumPy, Pandas, Matplotlib, Seaborn
+ML Frameworks: Scikit-learn, XGBoost, Imbalanced-learn (SMOTE)
+NLP & Embeddings: TF-IDF, CountVectorizer, Sentence-BERT
+Modeling: Binary & Multi-label Classification
+Evaluation Metrics: Accuracy, F1-Score, ROC-AUC, Confusion Matrix
+Utilities: GridSearchCV, Train-Test Splits, Pipelines
+Version Control: Git & GitHub
 
 ---
 
@@ -40,7 +33,7 @@ This repository contains all the tasks completed as part of my **Machine Learnin
 
 Due to GitHub's file size restrictions, **large datasets and `.pkl` model files are not included** in the repository.
 
-To run any task:
+To run any project:
 1. Download the respective dataset as mentioned in the task's README.
 2. Place it in the appropriate folder.
 3. Update the file path in the notebook or script if needed.
@@ -56,4 +49,4 @@ Feel free to connect or reach out for collaborations or questions:
 
 ---
 
-> ✨ Proud to have completed the internship and gained hands-on experience in applying ML to real-world problems!
+> 🧠 “Learning by doing” – this repository reflects my passion for building, experimenting, and growing as a machine learning practitioner.
