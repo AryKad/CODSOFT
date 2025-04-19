@@ -1,4 +1,4 @@
-#💡 Machine Learning Projects
+# 💡 Machine Learning Projects
 Welcome to my Machine Learning Projects repository!
 This space showcases the end-to-end ML solutions I've built as part of my self-learning journey and hands-on exploration of data science, artificial intelligence, and real-world problem-solving.
 
@@ -6,7 +6,7 @@ This space showcases the end-to-end ML solutions I've built as part of my self-l
 
 
 ---
-##🚀 Projects Overview
+## 🚀 Projects Overview
 Each project in this repository involves working with real datasets, applying data preprocessing and modeling techniques, and evaluating performance with appropriate metrics.
 
 | Project No.	| Title | Folder |
@@ -15,10 +15,11 @@ Each project in this repository involves working with real datasets, applying da
 | ✅ 2 | Customer Churn Prediction | [`Task2 - Customer Churn`](./Task2%20-%20Customer%20Churn) |
 | ✅ 3 | Movie Genre Classification | [`Task3 - Movie Genre`](./Task3%20-%20Movie%20Genre) |
 | ✅ 4 | Credit Card Fraud Detection | [`Task4 - Credit card Fraud`](./Task4%20-%20Credit%20card%20Fraud) |
+> More projects coming soon
 
 ---
 
-##🛠️ Tools & Techniques
+## 🛠️ Tools & Techniques
 Languages & Libraries: Python, NumPy, Pandas, Matplotlib, Seaborn
 ML Frameworks: Scikit-learn, XGBoost, Imbalanced-learn (SMOTE)
 NLP & Embeddings: TF-IDF, CountVectorizer, Sentence-BERT
